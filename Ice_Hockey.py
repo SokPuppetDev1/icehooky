@@ -10,7 +10,7 @@ def home():
 
 @app.route("/History")
 def history():
-	return render_template('history.html.')
+	return render_template('History.html')
 
 @app.route("/Fixtures")
 def fixtures():
