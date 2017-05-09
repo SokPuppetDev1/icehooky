@@ -10,37 +10,19 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.2/js/materialize.min.js"></script>
 </body>
 
+
 <body>
-v class="divider"></div>
-  <div class="section">
-    <h5>Welcome to the Belfast Giants</h5>
-    <p>homepage</p>
-  </div>
+<h2> <div class="card-panel">
+      <span class="blue-text text-darken-2"> <font size="12">Belfast Giants</font> </span>
+    </div></h2>
+<img src="http://getrealirishtours.com/wp-content/uploads/2014/01/giants_226762a.jpg" alt="Mountain View" style="width:304px;height:228px;">
+<img src="http://news.bbcimg.co.uk/media/images/65535000/jpg/_65535549_giants6.jpg" alt="Mountain View" style="width:304px;height:228px;">
+<img src="http://www.belfasttelegraph.co.uk/migration_catalog/article25656344.ece/ALTERNATES/h342/giants" alt="Mountain View" style="width:304px;height:228px;">
+
+
 </body>
 
-<body>
 
-    <div class="row">
-      <div class="col s12">The Belfast Giants are an ice hockey team from Belfast, Northern Ireland that compete in the Elite Ice Hockey League. Home games are played at the 9,000-capacity SSE Arena Belfast.</div>
-
-      <div class="col s12">They have a dedicated 'Boomerang Corner' which sits a large group of fans who generate noise and start most of the chants. It is named in memory of long time Giants fan Stewart Boone</div>
-
-    </div>
-<body>
- <div class="jumbotron">
-            <h1>History</h1>
-            <p class="lead"></p>
-            <p><a class="btn btn-lg btn-success" href="showSignUp" role="button">History section</a>
-            </p>
-        </div>
-        <div class="jumbotron">
-            <h1>current fixtures</h1>
-            <p class="lead"></p>
-            <p><a class="btn btn-lg btn-success" href="showSignUp" role="button">Current fixtures</a>
-            </p>
-        </div>
-</body>
-#card with title
 <body>
       <div class="col s12 m8 offset-m2 l6 offset-l3">
         <div class="card-panel grey lighten-5 z-depth-1">
@@ -49,19 +31,57 @@ v class="divider"></div>
               <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/BelfastGiantsLogo.jpg/220px-BelfastGiantsLogo.jpg" alt="" class="circle responsive-img"> <!-- notice the "circle" class -->
             </div>
             <div class="col s10">
-              <span class="black-text">
-                This is a square image. Add the "circle" class to it to make it appear circular.
+              <span class="blue-text">
+                 <font size="10">Welcome TO The Belfast Giants!!!</font> 
               </span>
             </div>
           </div>
         </div>
       </div>
 </body>
-#Youtube video
+
 <body>
-      <div class="video-container">
-        <iframe width="853" height="480" src="//https://www.youtube.com/watch?v=_TN6_dzckPM" frameborder="0" allowfullscreen></iframe>
-      </div>
+
+    <div class="row">
+<div class="col s12">  <font size="4">The Belfast Giants are an ice hockey team from Belfast, Northern Ireland that compete in the Elite Ice Hockey League. Home games are played at the 9,000-capacity SSE Arena Belfast.</font></div>
 </body>
+<body>
+</body>
+<body 
+   
+<div class="col s12">  <font size="4">They have a dedicated 'Boomerang Corner' which sits a large group of fans who generate noise and start most of the chants. It is named in memory of long time Giants fan Stewart Boone
+</div>
+</body>
+
+
+
+        <footer class="page-footer">
+          <div class="container">
+            <div class="row">
+              <div class="col l6 s12">
+                <h5 class="white-text">Creators</h5>
+                <p class="grey-text text-lighten-4"Website Created By team B.</p>
+              </div>
+              <div class="col l4 offset-l2 s12">
+                <h5 class="white-text"></h5>
+                <ul>
+                  <li><a class="grey-text text-lighten-3" href="#!">Thomas Mearns</a></li>
+                  <li><a class="grey-text text-lighten-3" href="#!">Michael Oxford</a></li>
+                  <li><a class="grey-text text-lighten-3" href="#!">Thomas Brown</a></li>
+                  <li><a class="grey-text text-lighten-3" href="#!">Gabriel Wills</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="footer-copyright">
+            <div class="container">
+            © 2017 Copyright Text
+            <a class="grey-text text-lighten-4 right" href="#!">More Links</a>
+            </div>
+          </div>
+        </footer>
+            
+
+
 </html>
          
