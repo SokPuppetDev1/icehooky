@@ -11,7 +11,7 @@ def history():
 
 @app.route("/Fixtures")
 def fixtures():
-	return render_template('fixtures.html')
+	return render_template('Fixtures.html')
 
 if __name__=="__main__":
 	app.config['DEBUG'] = True
