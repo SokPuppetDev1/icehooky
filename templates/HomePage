@@ -1,6 +1,16 @@
   <!DOCTYPE html>
   <html>
     <head>
+<body>
+
+  <!-- Compiled and minified CSS -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.2/css/materialize.min.css">
+
+  <!-- Compiled and minified JavaScript -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.2/js/materialize.min.js"></script>
+</body>
+
+<body>
 v class="divider"></div>
   <div class="section">
     <h5>Welcome to the Belfast Giants</h5>
@@ -36,7 +46,7 @@ v class="divider"></div>
         <div class="card-panel grey lighten-5 z-depth-1">
           <div class="row valign-wrapper">
             <div class="col s2">
-              <img src="images/yuna.jpg" alt="" class="circle responsive-img"> <!-- notice the "circle" class -->
+              <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/BelfastGiantsLogo.jpg/220px-BelfastGiantsLogo.jpg" alt="" class="circle responsive-img"> <!-- notice the "circle" class -->
             </div>
             <div class="col s10">
               <span class="black-text">
